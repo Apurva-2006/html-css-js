@@ -1,2 +1,2 @@
 # html-css-js
-Projects made using HTML,CSS, Javascript 
+Projects made using HTML,CSS and Javascript 
